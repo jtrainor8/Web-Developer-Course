@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    font-weight: normal;
+    text-decoration: #f72394 underline wavy;
+    letter-spacing: 15px;
+    font-size: 80px;
+    font-family: Big Carlson, 'Franklin Gothic Medium', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    line-height: 2;
+}

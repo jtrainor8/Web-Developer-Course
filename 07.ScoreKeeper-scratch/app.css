@@ -1,0 +1,30 @@
+#p1btn {
+    background-color: lightgreen;
+    color: white;
+}
+
+#p2btn {
+    background-color: blue;
+    color: white;
+}
+
+#reset {
+    background-color: red;
+    color: white;
+}
+
+.scoreboard {
+    font-size: 3em;
+}
+
+.isWinner {
+    color: green;
+}
+
+.isLoser {
+    color: red;
+}
+
+.reset {
+    color: black;
+}
